@@ -1,16 +1,33 @@
-### Hi there 👋
+## Sidinei Silva
+Desenvolvedor web apaixonado por tecnologias.
 
-<!--
-**sidinei-silva/sidinei-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidinei-silva&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Sidinei Silva Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidinei-silva&show_icons=true&hide_border=true&theme=default" />
+ 
+
+---
+
+
+<h2><i>Follow me:</i></h2>
+
+<div align="center"> 
+
+  <a href="https://www.linkedin.com/in/sidinei-silva-472570b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=3633cc" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/sidinei.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=3633cc" alt="Instagram">
+  </a>
+  
+
+  <a href="mailto:sidinei.silva02@gmail.com" mailto="sidinei.silva02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=3633cc" alt="Gmail">
+  </a>
+  
+
+</div>
+----
