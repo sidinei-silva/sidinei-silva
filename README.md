@@ -1,11 +1,13 @@
+
+
 ## Sidinei Silva
 Desenvolvedor web apaixonado por tecnologias.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidinei-silva&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff">
-
 <img alt="Sidinei Silva Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidinei-silva&show_icons=true&hide_border=true&theme=default" />
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sidinei-silva&style=--border-radius:10px"/>
  
 
 ---
