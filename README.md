@@ -5,9 +5,11 @@ Desenvolvedor web apaixonado por tecnologias.
 
 ---
 
-<img alt="Sidinei Silva Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidinei-silva&show_icons=true&hide_border=true&theme=default" />
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sidinei-silva&style=--border-radius:10px"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidinei-silva&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
  
 
 ---
